@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+
+# ignores pushing senstive or unnecessary files.
