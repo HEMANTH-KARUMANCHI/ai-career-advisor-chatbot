@@ -1,6 +1,9 @@
+#import the required libraries
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
+
+# prompt templates -> few shot prompt
 from prompt_templates import few_shot_prompt
 
 # Load environment variables
