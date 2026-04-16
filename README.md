@@ -19,7 +19,6 @@ An AI-powered career guidance chatbot that uses a Large Language Model (LLM) to 
 1. User provides profile details
 2. Input is converted into a structured prompt
 3. LLM generates career recommendations
-4. Output is displayed via CLI
 
 ## Limitations
 - Depends on prompt quality
