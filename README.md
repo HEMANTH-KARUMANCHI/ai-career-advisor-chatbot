@@ -1,12 +1,12 @@
 # AI Career Advisor Chatbot
 
 ## Overview
-An AI-powered career guidance chatbot that uses a Large Language Model (LLM) to generate personalized career recommendations based on user skills, education, and goals.
+An AI-powered career guidance chatbot that uses a Large Language Model (LLM) to generate personalized career recommendations based on the user skills, education, and goals.
 
 ## Features
 - Personalized career role suggestions
 - Skill gap identification
-- Learning roadmap generation
+- Generates learning roadmap
 - Zero-shot and few-shot prompt engineering
 
 ## Tech Stack
