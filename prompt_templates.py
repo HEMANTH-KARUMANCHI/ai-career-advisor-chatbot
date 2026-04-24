@@ -23,6 +23,13 @@ Recommended Role: Data Analyst
 Skills: SQL, Power BI
 Roadmap: Learn SQL -> Build projects -> Apply
 
+Example:
+Profile: B.Tech Computer Science, Python, AI, Statistics
+Output:
+Recomemended Role: AI Engineer
+Skills: Mathematics, Python, ML Algorithms
+Roadmap: Learn Statistics, ML implementation, LLMs, Transformers, AI Agents
+
 Now analyze this profile:
 {profile}
 """
